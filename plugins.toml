@@ -1,0 +1,7 @@
+# One table per plugin, keyed by its plugin.toml id.
+#
+# [example]
+# repository = "https://github.com/owner/example"  # source repository
+# rev = "<full commit SHA>"                        # reviewed commit to build
+# version = "0.1.0"                                # must equal plugin.toml's version
+# path = "plugin"                                  # optional crate subdirectory
